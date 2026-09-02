@@ -13,4 +13,4 @@ Release assets:
 
 Ed25519 public-key fingerprint (SHA-256 of DER): `eba96e34d8b1db8ee275409109a8e8a698bc9a86c208ca3b6d16f059c2b7a2f3`
 
-The private signing key is stored offline from this repository and is never included in an ISO or release.
+The private signing key is stored separately from this repository and is never included in an ISO or release.
